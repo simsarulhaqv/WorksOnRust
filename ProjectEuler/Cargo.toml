@@ -1,0 +1,6 @@
+[package]
+name = "Euler1"
+version = "0.1.0"
+authors = ["guest"]
+
+[dependencies]
